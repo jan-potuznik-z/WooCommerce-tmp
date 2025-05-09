@@ -12,6 +12,7 @@ namespace Packetery\Module\Carrier;
 use Packetery\Core\Entity;
 use Packetery\Core\Entity\Carrier;
 use Packetery\Module\EntityFactory;
+use function Packetery\bdump;
 
 /**
  * Class EntityRepository
