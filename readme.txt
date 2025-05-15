@@ -3,7 +3,7 @@ Contributors: packeta
 Tags: WooCommerce, shipping
 Requires at least: 5.5
 Tested up to: 6.7.2
-Stable tag: 2.0.5
+Stable tag: 2.0.4
 Requires PHP: 7.2
 WC requires at least: 5.1
 WC tested up to: 9.7.1
@@ -62,12 +62,6 @@ We are constantly working on adding new features. If there is a feature you woul
 Please contact us at e-commerce.support@packeta.com .
 
 == Changelog ==
-Merge test V2.
-
-= 2.0.5 =
-Updated: The payment method restriction set for the carrier has been implemented in the block checkout.
-Fixed: Packeta information is added to emails even when the order status is changed in administration.
-
 = 2.0.4 =
 Fixed: Shipping tax was not displayed in the order details (fixed only for advanced carrier settings).
 
