@@ -62,6 +62,8 @@ We are constantly working on adding new features. If there is a feature you woul
 Please contact us at e-commerce.support@packeta.com .
 
 == Changelog ==
+Merge test V2.
+
 = 2.0.5 =
 Updated: The payment method restriction set for the carrier has been implemented in the block checkout.
 Fixed: Packeta information is added to emails even when the order status is changed in administration.
